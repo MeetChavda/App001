@@ -76,4 +76,4 @@ end
 gem "cancancan", "~> 3.4"
 
 gem 'sass-rails'
-
+gem 'puma',  "~> 5.0"
